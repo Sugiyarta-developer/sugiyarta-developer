@@ -1,4 +1,6 @@
 ## Hi there 👋 I`m Sugiyarta
+![Sugiyarta](img/contoh.jpg)
+
 
 <!--
 **Sugiyarta-developer/sugiyarta-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on **Full Stack Lombok** 
+🌱 I’m currently learning [**Rorldpress**](https://www.youtube.com/watch?v=Z_Q9kzPUhVg&t=728s)
+
+![Happy bhirthday](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXozMGVtc2oxamlybTlwZDN2ZnRsZ3B3dWFidmZ1dzdnYTVqdGN4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lv2VhwHrt6ljhvZ6LF/giphy.gif)

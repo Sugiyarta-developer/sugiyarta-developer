@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 ##### Skills
 
-<img src="{BadgeURLHere}" />
+[![My Skills](https://skillicons.dev/icons?i=html,css,wordpress,theme=light)](https://skillicons.dev)
+
 
 🔭 I’m currently working on **Full Stack Lombok** 
 🌱 I’m currently learning [**Rorldpress**](https://www.youtube.com/watch?v=Z_Q9kzPUhVg&t=728s)

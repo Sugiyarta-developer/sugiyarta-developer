@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on **Full Stack Lombok** 
 🌱 I’m currently learning [**Rorldpress**](https://www.youtube.com/watch?v=Z_Q9kzPUhVg&t=728s)
+
+##### My Github Status
+![Sugiyarta](https://github-readme-stats.vercel.app/api?username=sugiyarta&show_icons=true&theme=radical)

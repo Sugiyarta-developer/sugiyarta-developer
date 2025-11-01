@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ##### My Github Status
 ![Sugiyarta](https://github-readme-stats.vercel.app/api?username=sugiyarta&show_icons=true&theme=radical)
 
+##### Play game with me
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sugiyarta/sugiyarta/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sugiyarta/sugiyarta/output/pacman-contribution-graph.svg">
